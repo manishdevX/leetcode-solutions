@@ -1,0 +1,14 @@
+#structure - problem name(problem number) - folder
+
+Build Array from Permutation(1920) - Array
+Concatenation of Array(1929) - Array
+Shuffle the Array(1470) - Array
+Final Value of Variable After Performing Operations(2011) - Array
+Number of Good Pairs(1512) - Array
+Kids With the Greatest Number of Candies(1431) - Array
+Richest Customer Wealth(1672) - Array
+Running Sum of 1d Array(1480) - Array
+Left and Right Sum Differences(2574) - Array
+Maximum Number of Words Found in Sentences(2114) - Array
+How Many Numbers Are Smaller Than the Current Number(1365) - Array
+Decode XORed Array(1720) - Array
