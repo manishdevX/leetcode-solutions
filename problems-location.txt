@@ -12,3 +12,10 @@ Left and Right Sum Differences(2574) - Array
 Maximum Number of Words Found in Sentences(2114) - Array
 How Many Numbers Are Smaller Than the Current Number(1365) - Array
 Decode XORed Array(1720) - Array
+Create Target Array in the Given Order(1389) - Array
+Decompress Run-Length Encoded List(1313) - Array
+Sum Multiples(2652) - Array
+Shuffle String(1528) - Array
+Count Items Matching a Rule(1773) - Array
+Difference Between Element Sum and Digit Sum of an Array(2535) - Array
+Check If Two String Arrays are Equivalent(1662) - Array
