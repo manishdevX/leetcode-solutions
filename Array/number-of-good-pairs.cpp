@@ -1,3 +1,5 @@
+// LINK - https://leetcode.com/problems/number-of-good-pairs/
+
 // TC = O(n^2), SC = O(1)
 
 class Solution

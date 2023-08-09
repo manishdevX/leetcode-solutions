@@ -1,3 +1,5 @@
+// LINK - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+
 // TC = O(n*k), SC = O(n*k)
 
 // solution 1
