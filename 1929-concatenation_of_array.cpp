@@ -1,5 +1,7 @@
 // LINK - https://leetcode.com/problems/concatenation-of-array/
 
+// n = size of nums
+
 // Solution 1, TC = O(n), SC = O(1)
 class Solution
 {

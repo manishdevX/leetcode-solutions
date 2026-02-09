@@ -1,5 +1,7 @@
 // LINK - https://leetcode.com/problems/number-of-good-pairs/
 
+// n = size of nums
+
 // Solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {

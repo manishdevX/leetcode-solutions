@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/richest-customer-wealth/
 
-// TC = solution 1, O(m*n), SC = O(m)
+// m = size of accounts, n = size of accounts[i]
+
+// solution 1, TC = O(m*n), SC = O(m)
 class Solution
 {
 public:

@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 
-// TC = solution 1, O(n^2), SC = O(1)
+// n = size of sentences
 
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

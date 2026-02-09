@@ -1,5 +1,7 @@
 // LINK - https://leetcode.com/problems/left-and-right-sum-differences/
 
+// n = size of nums
+
 // solution 1, TC = O(n), SC = O(n)
 class Solution
 {

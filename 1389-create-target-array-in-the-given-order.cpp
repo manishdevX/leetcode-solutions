@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/create-target-array-in-the-given-order/
 
-// TC = O(n^2), SC = O(n)
+// n = size of nums
 
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

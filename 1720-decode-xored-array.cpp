@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/decode-xored-array/
 
-// TC = O(n), SC = O(n)
+// n = size of encoded
 
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

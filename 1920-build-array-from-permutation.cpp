@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/build-array-from-permutation/
 
-// Solution 1, TC = O(n), SC = O(n)
+// n = size of nums
+
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

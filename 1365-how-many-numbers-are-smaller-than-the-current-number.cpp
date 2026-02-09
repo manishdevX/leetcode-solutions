@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
-// TC = solution 1, O(n^2), SC = O(n)
+// n = size of nums
 
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
