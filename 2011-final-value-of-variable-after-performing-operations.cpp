@@ -1,8 +1,6 @@
 // LINK - https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 
-// TC = O(n), SC = O(1)
-
-// Solution 1
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -24,7 +22,7 @@ public:
     }
 };
 
-// Solution 2
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

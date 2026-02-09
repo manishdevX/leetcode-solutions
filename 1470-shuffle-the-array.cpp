@@ -1,7 +1,6 @@
 // LINK - https://leetcode.com/problems/shuffle-the-array
 
-// TC = O(n), SC = O(n)
-
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

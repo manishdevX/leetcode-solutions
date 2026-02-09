@@ -1,20 +1,17 @@
 // LINK - https://leetcode.com/problems/build-array-from-permutation/
 
-// TC = O(n), SC = O(n)
-
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:
     vector<int> buildArray(vector<int> &nums)
     {
         vector<int> ans;
-        // SC O(n)
         for (int i = 0; i < nums.size(); i++)
         {
             ans.push_back(nums[nums[i]]);
         }
 
-        // SC O(1)
         for (int i = 0; i < nums.size(); i++)
         {
             ans.push_back(nums[nums[i]]);
@@ -24,8 +21,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(1)
-
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
