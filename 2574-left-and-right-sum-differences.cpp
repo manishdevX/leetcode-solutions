@@ -1,8 +1,6 @@
 // LINK - https://leetcode.com/problems/left-and-right-sum-differences/
 
-// TC = O(n), SC = O(n)
-
-// solution 1
+// solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -31,9 +29,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-
-// solution 2
+// solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

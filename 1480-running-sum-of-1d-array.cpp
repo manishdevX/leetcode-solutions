@@ -1,8 +1,6 @@
 // LINK - https://leetcode.com/problems/running-sum-of-1d-array/
 
-// TC = O(n^2), SC = O(n)
-
-// solution 1
+// TC =  solution 1, O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -22,9 +20,9 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
+// solution 2, TC = O(n), SC = O(n)
 
-// solution 2
+// 
 class Solution
 {
 public:

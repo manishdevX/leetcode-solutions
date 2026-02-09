@@ -1,6 +1,6 @@
 // LINK - https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 
-// TC = O(n^2), SC = O(1)
+// TC = solution 1, O(n^2), SC = O(1)
 
 class Solution
 {

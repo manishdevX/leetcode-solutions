@@ -1,6 +1,6 @@
 // LINK - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
-// TC = O(n), SC = O(n)
+// TC = solution 1, O(n), SC = O(1)
 
 class Solution
 {

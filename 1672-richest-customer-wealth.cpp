@@ -1,8 +1,6 @@
 // LINK - https://leetcode.com/problems/richest-customer-wealth/
 
-// TC = O(m*n), SC = O(m)
-
-// solution 1
+// TC = solution 1, O(m*n), SC = O(m)
 class Solution
 {
 public:
@@ -22,9 +20,7 @@ public:
     }
 };
 
-// TC = O(m*n), SC = O(1)
-
-// solution 2
+// solution 2, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:

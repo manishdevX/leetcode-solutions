@@ -1,6 +1,6 @@
 // LINK - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
-// TC = O(n^2), SC = O(n)
+// TC = solution 1, O(n^2), SC = O(n)
 
 class Solution
 {
