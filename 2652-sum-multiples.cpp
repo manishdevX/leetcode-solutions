@@ -1,7 +1,6 @@
 // LINK - https://leetcode.com/problems/sum-multiples/
 
-// TC = O(n), SC = O(1)
-
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/truncate-sentence/
 
-// TC = O(n), SC = O(n)
+// n = length of s
+
+// solution 1, TC = O(n), SC = O(n)
 
 class Solution
 {

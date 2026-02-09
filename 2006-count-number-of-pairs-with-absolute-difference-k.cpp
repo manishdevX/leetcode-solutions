@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
 
-// TC = O(n^2), SC = O(1)
+// n = size of nums
 
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

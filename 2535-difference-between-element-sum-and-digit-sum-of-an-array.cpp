@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 
-// TC = O(n), SC = O(1)
+// n = size of nums
 
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

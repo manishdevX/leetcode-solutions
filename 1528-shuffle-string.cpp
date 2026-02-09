@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/shuffle-string/
 
-// TC = O(n), SC = O(n)
+// n = size of indices
 
+// solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:

@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/count-items-matching-a-rule/
 
-// TC = O(n), SC = O(1)
+// n = size of items
 
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/matrix-diagonal-sum/
 
-// TC = O(n), SC = O(1)
+// n = size of mat
 
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

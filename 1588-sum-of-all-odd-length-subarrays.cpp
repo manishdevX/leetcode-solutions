@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 
-// TC = O(n^2), SC = O(1)
+// n = size of arr
 
+// solution 1, TC = O(n^3), SC = O(1)
 class Solution
 {
 public:
