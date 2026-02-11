@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 
-// TC = O(n^2), SC = O(1)
-// Solution 1
+// n = size of nums
+
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -24,8 +25,7 @@ public:
     }
 };
 
-// TC = O(nlogn), SC = O(1)
-// Solution 2
+// solution 2, TC = O(nlogn), SC = O(1)
 class Solution
 {
 public:

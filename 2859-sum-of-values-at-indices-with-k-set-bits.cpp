@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 
-// TC = O(n*m), SC = O(1)
-// solution 1
+// n = size of nums, m = avg value of i
+
+// solution 1, TC = O(n*logm), SC = O(1)
 class Solution
 {
 public:
@@ -35,8 +36,7 @@ public:
     }
 };
 
-// TC = O(n*m), SC = O(1)
-// solution 2
+// solution 2, TC = O(n*logm), SC = O(1)
 class Solution
 {
 public:

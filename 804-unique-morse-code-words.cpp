@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/unique-morse-code-words/
 
-// TC = O(n*m), SC = O(n)
-// solution 1
+// n = size of words, m = avg. length of words
+
+// solution 1, TC = O(n*m), SC = O(n)
 class Solution
 {
 public:
@@ -41,8 +42,7 @@ public:
     }
 };
 
-// TC = O(n*m), SC = O(n)
-// solution 2
+// solution 2, TC = O(n*m), SC = O(n)
 class Solution
 {
 public:

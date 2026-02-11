@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/maximum-sum-with-exactly-k-elements
 
-// TC = O(k), SC = O(1)
+// n = size of nums
 
-// solution 1
+// solution 1, TC = O(n+k), SC = O(1)
 class Solution
 {
 public:
@@ -18,9 +18,7 @@ public:
     }
 };
 
-// TC = O(k), SC = O(1)
-
-// solution 2
+// solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

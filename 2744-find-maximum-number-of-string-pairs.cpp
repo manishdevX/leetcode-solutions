@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/find-maximum-number-of-string-pairs
 
-// TC = O(n^2), SC = O(1)
+// n = size of words
 
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

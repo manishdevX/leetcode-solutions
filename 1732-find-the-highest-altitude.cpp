@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/find-the-highest-altitude
 
-// TC = O(n), SC = O(1)
-// solution 1
+// n = size of gain
+
+// solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -17,8 +18,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(1)
-// solution 2
+// solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

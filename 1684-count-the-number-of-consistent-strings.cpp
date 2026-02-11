@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/count-the-number-of-consistent-strings
 
-// TC = O(n*m*k), SC = O(1)
+// n = size of words, m = avg length of words[i], k = length of allowed
 
-// solution 1
+// solution 1, TC = O(n*m*k), SC = O(1)
 class Solution
 {
 public:

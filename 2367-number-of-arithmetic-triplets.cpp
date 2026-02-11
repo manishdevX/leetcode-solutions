@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/number-of-arithmetic-triplets/
 
-// TC = O(n^2), SC = O(1)
-// Solution 1
+// n = size of nums
+
+// solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -36,9 +37,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 2
-
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

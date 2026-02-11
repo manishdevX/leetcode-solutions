@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 
-// TC = O(nlogn), SC = O(1)
-// Solution
+// n = size of seats, m = size of students
+
+// solution 1, TC = O(nlogn+mlogm+n), SC = O(1)
 class Solution
 {
 public:
