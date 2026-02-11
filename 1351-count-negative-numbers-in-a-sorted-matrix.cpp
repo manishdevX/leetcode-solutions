@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
 
-// n = no. of rows in grid, m = no of cols in grid
+// m = size of grid, n = size of grid[i]
 
-// Solution 1 TC = O(n*m), SC = O(1)
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:
@@ -23,7 +23,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n*m), SC = O(1)
+// Solution 2, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:

@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/find-words-containing-character/
 
-// TC = O(size of words*avg length of words), SC = O(size of words)
+// m = size of words, n = avg length of words[i]
+
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:

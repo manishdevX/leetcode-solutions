@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/destination-city/
 
-// Solution TC = O(size of paths), SC = O(size of paths)
+// n = size of paths
+
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:

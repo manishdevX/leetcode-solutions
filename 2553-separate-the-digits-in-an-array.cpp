@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/separate-the-digits-in-an-array/
 
-// Solution 1 TC = O(size of nums * log(avg number of digits in a num) ), SC = O(total number of digits of all nums)
+// n = size of nums, d = avg no of digits in nums[i] 
+
+// Solution 1, TC = O(n*d), SC = O(1)
 class Solution
 {
 public:
@@ -23,7 +25,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(size of nums * log(avg number of digits in a num)), SC = O(total number of digits of all nums)
+// Solution 2, TC = O(n*d), SC = O(1)
 class Solution
 {
 public:
@@ -42,7 +44,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(size of nums * log(avg number of digits in a num)), SC = O(total number of digits of all nums)
+// Solution 3, TC = O(n*d), SC = O(d)
 class Solution
 {
 public:

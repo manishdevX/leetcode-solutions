@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/find-common-elements-between-two-arrays/
 
-// Solution 1 TC = O(size of nums1 * size of nums2), SC = O(1)
+// m = size of num1, n = size of nums2
+
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:
@@ -26,7 +28,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(max(size of nums1,size of nums2)), SC = O(size of nums1+size of nums2)
+// Solution 2, TC = O(m+n), SC = O(m+n)
 class Solution
 {
 public:
@@ -63,7 +65,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(max(size of nums1,size of nums2)), SC = O(1)
+// Solution 3, TC = O(m+n), SC = O(1)
 class Solution
 {
 public:

@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
 
-// n1 = size of nums1, n2 = size of nums2
+// m = size of nums1, n = size of nums2
 
-// Solution 1 TC = O(n1*n2), SC = O(n1+n2)
+// Solution 1, TC = O(m^2*n^2), SC = O(1)
 class Solution
 {
 public:
@@ -31,7 +31,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(--), SC = O(n1+n2)
+// Solution 2, TC = O(n+m), SC = O(m+n)
 class Solution
 {
 public:
@@ -69,7 +69,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n1^2logn1+n2^2logn2), SC = O(n1+n2)
+// Solution 3, TC = O(m^2*n^2), SC = O(m+n)
 class Solution
 {
 public:

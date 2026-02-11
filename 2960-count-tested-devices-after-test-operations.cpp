@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/count-tested-devices-after-test-operations/
 
-// Solution 1 TC = O(size of batteryPercentages * 2), SC = O(1)
+// n = size of batteryPercentages
+
+// Solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -23,7 +25,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(size of batteryPercentages), SC = O(1)
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:

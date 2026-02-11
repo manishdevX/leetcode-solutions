@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 
-// TC = O(m*n), SC = O(m*n)
+// m = size of indices, n = size of indices[i]
 
+// Solution 1, TC = O(m^2+m*n)), SC = O(m*n)
 class Solution
 {
 public:

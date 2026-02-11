@@ -1,6 +1,8 @@
 // LINK - https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 
-// Solution 1 TC = O(size of rectangles), SC = O(size of rectangles)
+// n = size of rectangles
+
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -15,7 +17,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(size of rectangles), SC = O(1)
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
