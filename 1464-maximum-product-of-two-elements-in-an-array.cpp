@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 
-// TC = O(nlogn), SC = O(1)
-// Solution 1
+// n = size of nums
+
+// Solution 1, TC = O(nlogn), SC = O(1)
 class Solution
 {
 public:
@@ -13,8 +14,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -25,8 +25,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(1)
-// Solution 3
+// Solution 3, TC = O(n), SC = O(1)
 class Solution
 {
 public:

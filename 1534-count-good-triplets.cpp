@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/count-good-triplets/
 
-// TC = O(n^3), SC = O(1)
-// Solution 1
+// n = size of arr
+
+// Solution 1, TC = O(n^3), SC = O(1)
 class Solution
 {
 public:
@@ -26,8 +27,7 @@ public:
     }
 };
 
-// TC = O(n^3), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(n^3), SC = O(1)
 class Solution
 {
 public:

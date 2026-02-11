@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/sum-of-squares-of-special-elements/
 
-// TC = O(n), SC = O(1)
-// Solution 1
+// n = size of nums
 
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -21,9 +21,7 @@ public:
     }
 };
 
-// TC = O(sqrt(n)), SC = O(1)
-// Solution 2
-
+// Solution 2, TC = O(sqrt(n)), SC = O(1)
 class Solution
 {
 public:

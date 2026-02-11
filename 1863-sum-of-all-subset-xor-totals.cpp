@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 
-// TC = O(2^n), SC = O(1)
-// Solution 1
+// n = size of nums
+
+// Solution 1, TC = O(2^n), SC = O(1)
 class Solution
 {
 public:
@@ -26,8 +27,7 @@ public:
     }
 };
 
-// TC = O(2^n), SC = O(2^n)
-// Solution 2
+// Solution 2, TC = O(2^n), SC = O(2^n)
 class Solution
 {
 public:

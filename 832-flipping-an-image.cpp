@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/flipping-an-image/
 
-// TC = O(n^2), SC = O(1)
-// Solution
+// n = size of nums and nums[i]
+
+// Solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

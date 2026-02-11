@@ -1,7 +1,8 @@
 // LINK - https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 
-// TC = O(n^2), SC = O(1)
+// n = size of words, m = avg length of words[i]
 
+// Solution 1, TC = O(n*m), SC = O(1)
 class Solution
 {
 public:

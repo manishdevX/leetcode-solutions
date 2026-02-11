@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 
-// TC = O(n), SC = O(1)
-// Solution 1
+// n = size of nums
 
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -21,9 +21,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(1)
-// Solution 2
-
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
