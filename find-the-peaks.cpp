@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-peaks/description/
+// LINK - https://leetcode.com/problems/find-the-peaks
 
 // n = size of mountain
 

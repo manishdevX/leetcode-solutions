@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/delete-greatest-value-in-each-row/description/
+// LINK - https://leetcode.com/problems/delete-greatest-value-in-each-row
 
 // m = size of grid, n = size of grid[0]
 

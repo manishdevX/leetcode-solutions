@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+// LINK - https://leetcode.com/problems/remove-duplicates-from-sorted-array
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/
+// LINK - https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero
 
 // Solution 1 TC = O(n), SC = O(n)
 class Solution

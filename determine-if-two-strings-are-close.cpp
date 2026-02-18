@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/determine-if-two-strings-are-close/description/
+// LINK - https://leetcode.com/problems/determine-if-two-strings-are-close
 
 // m = size of word1, n = size of word2
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-strong-pair-xor-i/description/
+// LINK - https://leetcode.com/problems/maximum-strong-pair-xor-i
 
 // n = size of nums
 

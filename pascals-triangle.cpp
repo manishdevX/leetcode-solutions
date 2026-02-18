@@ -1,4 +1,4 @@
-// LINK -https://leetcode.com/problems/pascals-triangle/description/
+// LINK -https://leetcode.com/problems/pascals-triangle
 
 // n = numRows
 

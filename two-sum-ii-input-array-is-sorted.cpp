@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+// LINK - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 
 // n = size of numbers
 

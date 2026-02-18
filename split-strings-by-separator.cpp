@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/split-strings-by-separator/description/
+// LINK - https://leetcode.com/problems/split-strings-by-separator
 
 // n = size of words, m = avg size of a word
 

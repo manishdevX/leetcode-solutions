@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
+// LINK - https://leetcode.com/problems/n-repeated-element-in-size-2n-array
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/reduce-array-size-to-the-half/description/
+// LINK - https://leetcode.com/problems/reduce-array-size-to-the-half
 
 // n = size of arr
 

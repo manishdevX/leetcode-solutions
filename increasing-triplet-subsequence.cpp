@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/increasing-triplet-subsequence/description/
+// LINK - https://leetcode.com/problems/increasing-triplet-subsequence
 
 // n = size of nums
 

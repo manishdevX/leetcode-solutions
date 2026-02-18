@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/merge-similar-items/description/
+// LINK - https://leetcode.com/problems/merge-similar-items
 
 // n1 = size of items1, n2 = size of items2
 

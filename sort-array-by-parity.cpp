@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/sort-array-by-parity/description/
+// LINK - https://leetcode.com/problems/sort-array-by-parity
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+// LINK - https://leetcode.com/problems/reverse-vowels-of-a-string
 
 // n = length of s
 

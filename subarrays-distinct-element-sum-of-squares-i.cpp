@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/
+// LINK - https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/
+// LINK - https://leetcode.com/problems/maximum-number-of-pairs-in-array
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/search-a-2d-matrix/description/
+// LINK - https://leetcode.com/problems/search-a-2d-matrix
 
 // m = size of matrix, n = size of matrix[0]
 

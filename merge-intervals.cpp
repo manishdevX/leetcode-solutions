@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/merge-intervals/description/
+// LINK - https://leetcode.com/problems/merge-intervals
 
 // n = size of intervals
 

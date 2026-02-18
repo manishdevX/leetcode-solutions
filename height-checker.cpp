@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/height-checker/description/
+// LINK - https://leetcode.com/problems/height-checker
 
 // n = size of heights
 

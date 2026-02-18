@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/two-sum/description/
+// LINK - https://leetcode.com/problems/two-sum
 
 // n = size of nums
 

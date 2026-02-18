@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/
+// LINK - https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
 
 // n = size of prices
 

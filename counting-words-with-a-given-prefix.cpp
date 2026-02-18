@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
+// LINK - https://leetcode.com/problems/counting-words-with-a-given-prefix
 
 // n = size of words, m = length of pref
 

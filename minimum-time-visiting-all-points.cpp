@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/minimum-time-visiting-all-points/description/
+// LINK - https://leetcode.com/problems/minimum-time-visiting-all-points
 
 // n = size of points
 

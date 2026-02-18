@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/powx-n/description/
+// LINK - https://leetcode.com/problems/powx-n
 
 // Solution 1 TC = O(logn), SC = O(logn)
 class Solution

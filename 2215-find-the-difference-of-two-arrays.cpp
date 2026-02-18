@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-difference-of-two-arrays/description/
+// LINK - https://leetcode.com/problems/find-the-difference-of-two-arrays
 
 // m = size of nums1, n = size of nums2
 

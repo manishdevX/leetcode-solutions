@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-target-indices-after-sorting-array/description/
+// LINK - https://leetcode.com/problems/find-target-indices-after-sorting-array
 
 // n = size of nums
 

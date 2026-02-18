@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/remove-element/description/
+// LINK - https://leetcode.com/problems/remove-element
 
 // n = size of nums
 

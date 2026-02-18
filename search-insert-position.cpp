@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/search-insert-position/description/
+// LINK - https://leetcode.com/problems/search-insert-position
 
 // n = size of nums
 

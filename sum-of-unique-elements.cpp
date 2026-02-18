@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/sum-of-unique-elements/description/
+// LINK - https://leetcode.com/problems/sum-of-unique-elements
 
 // n = size of nums
 

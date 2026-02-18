@@ -1,8 +1,8 @@
-// LINK - https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/description/
+// LINK - https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing
 
 // n = size of nums
 
-// Solution 1 TC = O(n*2), SC = O(n)
+// Solution 1, TC = O(n*2), SC = O(n)
 class Solution
 {
 public:

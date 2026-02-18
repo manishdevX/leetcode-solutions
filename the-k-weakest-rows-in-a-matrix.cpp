@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
+// LINK - https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
 
 // n = size of mat, m = size of mat[i]
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+// LINK - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 
 // n = size of nums
 

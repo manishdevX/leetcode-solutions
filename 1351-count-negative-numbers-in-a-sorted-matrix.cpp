@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+// LINK - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix
 
 // m = size of grid, n = size of grid[i]
 

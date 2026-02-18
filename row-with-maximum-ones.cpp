@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/row-with-maximum-ones/description/
+// LINK - https://leetcode.com/problems/row-with-maximum-ones
 
 // n = size of mat, m = size of mat[i]
 

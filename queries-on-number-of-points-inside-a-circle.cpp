@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/description/
+// LINK - https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle
 
 // m = size of points, n = size of queries
 

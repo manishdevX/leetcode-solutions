@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
+// LINK - https://leetcode.com/problems/reveal-cards-in-increasing-order
 
 // n = size of deck
 

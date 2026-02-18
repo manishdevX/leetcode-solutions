@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+// LINK - https://leetcode.com/problems/peak-index-in-a-mountain-array
 
 // n = size of arr
 

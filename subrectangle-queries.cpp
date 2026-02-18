@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/subrectangle-queries/description/
+// LINK - https://leetcode.com/problems/subrectangle-queries
 
 // m = size of rectangle, n = size of rectangle[i]
 

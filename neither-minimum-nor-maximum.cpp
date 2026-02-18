@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/neither-minimum-nor-maximum/description/
+// LINK - https://leetcode.com/problems/neither-minimum-nor-maximum
 
 // n = size of nums
 

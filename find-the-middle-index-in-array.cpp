@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-middle-index-in-array/description/
+// LINK - https://leetcode.com/problems/find-the-middle-index-in-array
 
 // n = size of nums
 

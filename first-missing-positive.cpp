@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/first-missing-positive/description/
+// LINK - https://leetcode.com/problems/first-missing-positive
 
 // n = size of nums
 

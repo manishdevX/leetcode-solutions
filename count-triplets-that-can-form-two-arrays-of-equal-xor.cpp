@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/
+// LINK - https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor
 
 // n = size of arr
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
+// LINK - https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
 
 // n = size of nums
 

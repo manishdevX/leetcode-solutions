@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/design-browser-history/description/
+// LINK - https://leetcode.com/problems/design-browser-history
 
 // n = no of inputs
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/set-matrix-zeroes/description/
+// LINK - https://leetcode.com/problems/set-matrix-zeroes
 
 // n = size of matrix, m = size of matrix[i]
 

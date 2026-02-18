@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-units-on-a-truck/description/
+// LINK - https://leetcode.com/problems/maximum-units-on-a-truck
 
 // n = size of boxTypes
 

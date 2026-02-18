@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/partition-array-according-to-given-pivot/description/
+// LINK - https://leetcode.com/problems/partition-array-according-to-given-pivot
 
 // n = size of nums
 

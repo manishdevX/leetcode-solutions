@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/combination-sum/description/
+// LINK - https://leetcode.com/problems/combination-sum
 
 // T = Value of target
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+// LINK - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/unique-number-of-occurrences/description/
+// LINK - https://leetcode.com/problems/unique-number-of-occurrences
 
 // n = size of arr
 

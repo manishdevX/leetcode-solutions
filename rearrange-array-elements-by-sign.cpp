@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
+// LINK - https://leetcode.com/problems/rearrange-array-elements-by-sign
 
 // n = size of nums
 

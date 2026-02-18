@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/
+// LINK - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
 
 // n = size of nums
 

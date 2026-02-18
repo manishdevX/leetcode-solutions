@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/number-of-senior-citizens/description/
+// LINK - https://leetcode.com/problems/number-of-senior-citizens
 
 // n = size of details
 

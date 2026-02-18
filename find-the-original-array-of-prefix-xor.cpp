@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/
+// LINK - https://leetcode.com/problems/find-the-original-array-of-prefix-xor
 
 // n = size of pref
 

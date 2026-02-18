@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/minimum-number-game/description/
+// LINK - https://leetcode.com/problems/minimum-number-game
 
 // n = size of nums
 

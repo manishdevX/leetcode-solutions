@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/move-zeroes/description/
+// LINK - https://leetcode.com/problems/move-zeroes
 
 // n = size of nums
 

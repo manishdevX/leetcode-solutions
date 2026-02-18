@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/longest-increasing-subsequence/description/
+// LINK - https://leetcode.com/problems/longest-increasing-subsequence
 
 // n = size of nums
 

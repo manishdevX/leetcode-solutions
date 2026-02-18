@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/is-subsequence/description/
+// LINK - https://leetcode.com/problems/is-subsequence
 
 // n1 = length of s, n2 = length of t
 

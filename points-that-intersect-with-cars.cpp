@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/points-that-intersect-with-cars/description/
+// LINK - https://leetcode.com/problems/points-that-intersect-with-cars
 
 // n = size of nums, m = avg difference of nums[i][1]-nums[i][0]
 

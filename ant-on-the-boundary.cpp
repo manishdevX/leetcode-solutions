@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/ant-on-the-boundary/description/
+// LINK - https://leetcode.com/problems/ant-on-the-boundary
 
 // n = size of nums
 

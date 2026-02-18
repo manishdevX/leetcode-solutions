@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/sort-colors/description/
+// LINK - https://leetcode.com/problems/sort-colors
 
 // n = size of nums
 

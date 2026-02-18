@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/two-out-of-three/description/
+// LINK - https://leetcode.com/problems/two-out-of-three
 
 // n1 = size of nums1, n2 = size of nums2, n3 = size of nums3
 

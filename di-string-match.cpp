@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/di-string-match/description/
+// LINK - https://leetcode.com/problems/di-string-match
 
 // n = length of s
 

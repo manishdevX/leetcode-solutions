@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/
+// LINK - https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column
 
 // m = size of grid, n = size of grid[i]
 

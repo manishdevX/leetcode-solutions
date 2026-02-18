@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-primes/description/
+// LINK - https://leetcode.com/problems/count-primes
 
 // Solution 1 TC = O(nlogn), SC = O(n) TLE
 class Solution

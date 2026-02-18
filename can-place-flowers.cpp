@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/can-place-flowers/description/
+// LINK - https://leetcode.com/problems/can-place-flowers
 
 // n = size of flowerbed
 

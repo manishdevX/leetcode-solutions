@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/
+// LINK - https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays
 
 // n = size of A
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-peak-element/description/
+// LINK - https://leetcode.com/problems/find-peak-element
 
 // n = size of nums
 

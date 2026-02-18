@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/3sum/description/
+// LINK - https://leetcode.com/problems/3sum
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/smallest-index-with-equal-value/description/
+// LINK - https://leetcode.com/problems/smallest-index-with-equal-value
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/array-partition/description/
+// LINK - https://leetcode.com/problems/array-partition
 
 // n = size of nums
 

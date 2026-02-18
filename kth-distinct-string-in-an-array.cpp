@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
+// LINK - https://leetcode.com/problems/kth-distinct-string-in-an-array
 
 // n = size of arr
 

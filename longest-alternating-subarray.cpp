@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/longest-alternating-subarray/description/
+// LINK - https://leetcode.com/problems/longest-alternating-subarray
 
 // n = size of nums
 

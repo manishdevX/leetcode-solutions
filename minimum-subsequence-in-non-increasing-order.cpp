@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/description/
+// LINK - https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order
 
 // n = size of nums
 

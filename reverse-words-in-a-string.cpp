@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/reverse-words-in-a-string/description/
+// LINK - https://leetcode.com/problems/reverse-words-in-a-string
 
 // n = length of s
 

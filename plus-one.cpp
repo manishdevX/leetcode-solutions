@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/plus-one/description/
+// LINK - https://leetcode.com/problems/plus-one
 
 // n = size of digits
 

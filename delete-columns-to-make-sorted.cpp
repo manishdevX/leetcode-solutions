@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/delete-columns-to-make-sorted/description/
+// LINK - https://leetcode.com/problems/delete-columns-to-make-sorted
 
 // n = size of strs, m = size of strs[i]
 

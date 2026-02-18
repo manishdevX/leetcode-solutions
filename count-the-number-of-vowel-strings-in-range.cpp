@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/
+// LINK - https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range
 
 // n = size of words, m = avg size of words[i]
 

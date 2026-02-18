@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/permutations/description/
+// LINK - https://leetcode.com/problems/permutations
 
 // n = size of nums
 

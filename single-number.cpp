@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/single-number/description/
+// LINK - https://leetcode.com/problems/single-number
 
 // n = size of nums
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+// LINK - https://leetcode.com/problems/single-element-in-a-sorted-array
 
 // n = size of nums
 

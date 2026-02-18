@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+// LINK - https://leetcode.com/problems/greatest-common-divisor-of-strings
 
 // n1 = length of str1, n2 = length of str2
 

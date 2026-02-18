@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/queries-on-a-permutation-with-key/description/
+// LINK - https://leetcode.com/problems/queries-on-a-permutation-with-key
 
 // n = size of queries
 

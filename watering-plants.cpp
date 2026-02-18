@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/watering-plants/description/
+// LINK - https://leetcode.com/problems/watering-plants
 
 // n = size of plants
 

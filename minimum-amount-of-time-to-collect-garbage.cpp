@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/
+// LINK - https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage
 
 // n = size of garbage, m = avg size of garbage[i]
 

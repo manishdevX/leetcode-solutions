@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-and-replace-pattern/description/
+// LINK - https://leetcode.com/problems/find-and-replace-pattern
 
 // m = size of pattern, n = size of words
 

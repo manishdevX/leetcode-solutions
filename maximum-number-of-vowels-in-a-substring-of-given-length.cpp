@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/
+// LINK - https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length
 
 // n = length of s
 

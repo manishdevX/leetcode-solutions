@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-pivot-index/description/
+// LINK - https://leetcode.com/problems/find-pivot-index
 
 // n = size of nums
 

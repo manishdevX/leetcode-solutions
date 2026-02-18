@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+// LINK - https://leetcode.com/problems/find-all-duplicates-in-an-array
 
 // n = size of nums
 

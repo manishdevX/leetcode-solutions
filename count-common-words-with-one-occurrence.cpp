@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-common-words-with-one-occurrence/description/
+// LINK - https://leetcode.com/problems/count-common-words-with-one-occurrence
 
 // n1 = size of words1, n2 = size of words2
 

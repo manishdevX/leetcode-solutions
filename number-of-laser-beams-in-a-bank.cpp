@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/
+// LINK - https://leetcode.com/problems/number-of-laser-beams-in-a-bank
 
 // m = size of bank, n = avg length of bank[i]
 

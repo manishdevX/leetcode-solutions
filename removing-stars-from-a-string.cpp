@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/removing-stars-from-a-string/description/
+// LINK - https://leetcode.com/problems/removing-stars-from-a-string
 
 // n = size of s
 

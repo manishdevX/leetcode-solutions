@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/combinations/description/
+// LINK - https://leetcode.com/problems/combinations
 
 // n = size of res
 

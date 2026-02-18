@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+// LINK - https://leetcode.com/problems/search-in-rotated-sorted-array
 
 // n = size of nums
 

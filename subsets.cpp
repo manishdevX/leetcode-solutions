@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/subsets/description/
+// LINK - https://leetcode.com/problems/subsets
 
 // n = size of nums
 

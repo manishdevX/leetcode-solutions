@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/build-an-array-with-stack-operations/description/
+// LINK - https://leetcode.com/problems/build-an-array-with-stack-operations
 
 // Solution 1 TC = O(n), SC = O(n)
 class Solution

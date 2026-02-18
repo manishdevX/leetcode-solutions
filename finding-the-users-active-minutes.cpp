@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/finding-the-users-active-minutes/description/
+// LINK - https://leetcode.com/problems/finding-the-users-active-minutes
 
 // n = size of logs
 

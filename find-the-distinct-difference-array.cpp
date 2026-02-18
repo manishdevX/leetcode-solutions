@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-distinct-difference-array/description/
+// LINK - https://leetcode.com/problems/find-the-distinct-difference-array
 
 // n = size of nums
 

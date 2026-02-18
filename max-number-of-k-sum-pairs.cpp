@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/max-number-of-k-sum-pairs/description/
+// LINK - https://leetcode.com/problems/max-number-of-k-sum-pairs
 
 // n = size of nums
 

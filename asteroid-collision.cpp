@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/asteroid-collision/description/
+// LINK - https://leetcode.com/problems/asteroid-collision
 
 // n = size of asteroids
 

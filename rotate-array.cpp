@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/rotate-array/description/
+// LINK - https://leetcode.com/problems/rotate-array
 
 // n = size of nums, lim = k % n
 

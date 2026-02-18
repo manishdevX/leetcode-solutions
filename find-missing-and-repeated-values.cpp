@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-missing-and-repeated-values/description/
+// LINK - https://leetcode.com/problems/find-missing-and-repeated-values
 
 // n = size of grid = size of grid[i]
 

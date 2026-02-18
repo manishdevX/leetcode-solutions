@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/number-of-recent-calls/description/
+// LINK - https://leetcode.com/problems/number-of-recent-calls
 
 // n = size of q
 

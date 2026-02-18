@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/prime-in-diagonal/description/
+// LINK - https://leetcode.com/problems/prime-in-diagonal
 
 // n = size of nums, m = size of nums[i], k = max element in nums
 

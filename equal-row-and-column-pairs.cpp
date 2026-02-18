@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/equal-row-and-column-pairs/description/
+// LINK - https://leetcode.com/problems/equal-row-and-column-pairs
 
 // n = size of grid
 

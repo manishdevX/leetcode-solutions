@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-triangular-sum-of-an-array/description/
+// LINK - https://leetcode.com/problems/find-triangular-sum-of-an-array
 
 // n = size of nums
 

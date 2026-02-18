@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/merge-strings-alternately/description/
+// LINK - https://leetcode.com/problems/merge-strings-alternately
 
 // n1 = length of word1, n2 = length of word2
 

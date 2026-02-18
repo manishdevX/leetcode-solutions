@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
+// LINK - https://leetcode.com/problems/find-numbers-with-even-number-of-digits
 
 // n = size of nums
 

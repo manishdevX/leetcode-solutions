@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/sort-the-matrix-diagonally/description/
+// LINK - https://leetcode.com/problems/sort-the-matrix-diagonally
 
 // m = size of mat, n = size of mat[0]
 

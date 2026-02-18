@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/
+// LINK - https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values
 
 // n1 = size of items1, n2 = size of items2
 

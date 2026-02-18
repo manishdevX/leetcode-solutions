@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/baseball-game/description/
+// LINK - https://leetcode.com/problems/baseball-game
 
 // n = operations
 

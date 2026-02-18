@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+// LINK - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list
 
 // n = size of linkedlist
 

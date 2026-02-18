@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/
+// LINK - https://leetcode.com/problems/sort-the-students-by-their-kth-score
 
 // m = size of score, n = size of score[i]
 

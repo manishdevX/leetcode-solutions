@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-average-subarray-i/description/
+// LINK - https://leetcode.com/problems/maximum-average-subarray-i
 
 // n = size of nums
 

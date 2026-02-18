@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
+// LINK - https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
 
 // n = size of groupSizes
 

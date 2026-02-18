@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/find-the-duplicate-number/description/
+// LINK - https://leetcode.com/problems/find-the-duplicate-number
 
 // n = size of nums
 

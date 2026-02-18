@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+// LINK - https://leetcode.com/problems/kth-largest-element-in-an-array
 
 // n = size of nums
 

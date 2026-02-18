@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/maximum-binary-tree/description/
+// LINK - https://leetcode.com/problems/maximum-binary-tree
 
 // n = size of nums
 

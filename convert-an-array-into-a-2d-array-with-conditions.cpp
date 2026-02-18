@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/
+// LINK - https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
 
 // n = size of nums
 

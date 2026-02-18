@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+// LINK - https://leetcode.com/problems/median-of-two-sorted-arrays
 
 // m = size of nums1, n = size of nums2
 

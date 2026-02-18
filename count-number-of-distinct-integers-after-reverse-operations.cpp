@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/
+// LINK - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations
 
 // n = size of nums, m = avg no. of digits in nums[i]
 

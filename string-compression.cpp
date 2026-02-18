@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/string-compression/description/
+// LINK - https://leetcode.com/problems/string-compression
 
 // n = size of chars
 

@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/container-with-most-water/description/
+// LINK - https://leetcode.com/problems/container-with-most-water
 
 // n = size of height
 

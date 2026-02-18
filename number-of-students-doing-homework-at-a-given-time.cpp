@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/
+// LINK - https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time
 
 // n = size of startTime
 

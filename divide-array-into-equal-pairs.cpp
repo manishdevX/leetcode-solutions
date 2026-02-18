@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/divide-array-into-equal-pairs/description/
+// LINK - https://leetcode.com/problems/divide-array-into-equal-pairs
 
 // n = size of nums
 

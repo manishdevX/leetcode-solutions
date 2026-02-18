@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/continuous-subarray-sum/description/
+// LINK - https://leetcode.com/problems/continuous-subarray-sum
 
 // m = size of nums, k = number of distinct remainders
 

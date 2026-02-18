@@ -1,4 +1,4 @@
-// LINK - https://leetcode.com/problems/arithmetic-subarrays/description/
+// LINK - https://leetcode.com/problems/arithmetic-subarrays
 
 // n = size of nums, m = size of l and r
 
