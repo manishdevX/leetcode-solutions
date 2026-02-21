@@ -2,7 +2,7 @@
 
 // n = length of boxes
 
-// Solution 1 TC = O(n^2), SC = O(n)
+// Solution 1, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -24,8 +24,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 2
+// Solution 2, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -69,8 +68,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 3
+// Solution 3, TC = O(n), SC = O(1)
 class Solution
 {
 public:

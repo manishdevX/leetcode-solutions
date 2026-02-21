@@ -2,7 +2,7 @@
 
 // n = size of numbers
 
-// Solution 1 TC = O(n), SC = O(1)
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -30,8 +30,7 @@ public:
     }
 };
 
-// TC = O(nlogn), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(nlogn), SC = O(1)
 class Solution
 {
 public:

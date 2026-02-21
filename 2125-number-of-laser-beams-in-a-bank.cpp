@@ -2,7 +2,7 @@
 
 // m = size of bank, n = avg length of bank[i]
 
-// Solution 1 TC = O(m*n), SC = O(1)
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:
