@@ -2,7 +2,7 @@
 
 // n = size of groupSizes
 
-// Solution 1 TC = O(n^2), SC = O(n)
+// Solution 1, TC = O(n^2), SC = O(n)
 class Solution
 {
 public:
@@ -40,8 +40,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(n)
-// Solution 2
+// Solution 2, TC = O(n), SC = O(n)
 class Solution
 {
 public:

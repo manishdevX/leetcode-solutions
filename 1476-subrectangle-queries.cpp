@@ -2,7 +2,7 @@
 
 // m = size of rectangle, n = size of rectangle[i]
 
-// Solution 1 TC = O(m*n), SC = O(n)
+// Solution 1, TC = O(m*n), SC = O(m*n)
 class SubrectangleQueries
 {
 public:

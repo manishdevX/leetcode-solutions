@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/kth-distinct-string-in-an-array
 
-// n = size of arr
+// n = size of arr, m = avg length of arr[i]
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n*m), SC = O(n*m)
 class Solution
 {
 public:
@@ -27,8 +27,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(n^2*m), SC = O(1)
 class Solution
 {
 public:

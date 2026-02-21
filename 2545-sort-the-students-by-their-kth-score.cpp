@@ -1,22 +1,21 @@
 // LINK - https://leetcode.com/problems/sort-the-students-by-their-kth-score
 
-// m = size of score, n = size of score[i]
+// m = size of score
 
-// Solution 1 TC = O(mlogm), SC = O(1)
+// Solution 1, TC = O(mlogm), SC = O(logm)
 class Solution
 {
 public:
     vector<vector<int>> sortTheStudents(vector<vector<int>> &score, int k)
     {
         sort(score.begin(), score.end(),
-             [&](vector<int> v1, vector<int> v2)
+             [&](vector<int> &v1, vector<int> &v2)
              { return v1[k] > v2[k]; });
         return score;
     }
 };
 
-// TC = O(m^2), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(m^2), SC = O(1)
 class Solution
 {
 public:
@@ -42,8 +41,7 @@ public:
     }
 };
 
-// TC = O(m), SC = O(m)
-// Solution 3
+// Solution 3, TC = O(mlogm+m*n), SC = O(m)
 class Solution
 {
 public:

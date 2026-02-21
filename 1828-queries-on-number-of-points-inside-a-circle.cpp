@@ -2,7 +2,7 @@
 
 // m = size of points, n = size of queries
 
-// Solution 1 TC = O(m*n), SC = O(n)
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:

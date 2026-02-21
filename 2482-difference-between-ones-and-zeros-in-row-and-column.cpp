@@ -2,7 +2,7 @@
 
 // m = size of grid, n = size of grid[i]
 
-// Solution 1 TC = O(mn*(m+n)), SC = O(m*n)
+// Solution 1, TC = O(mn*(m+n)), SC = O(1), TLE
 class Solution
 {
 public:
@@ -31,8 +31,7 @@ public:
     }
 };
 
-// TC = O(m*n), SC = O(m*n)
-// Solution 2
+// Solution 2, TC = O(m*n), SC = O(m*n)
 class Solution
 {
 public:
@@ -71,8 +70,7 @@ public:
     }
 };
 
-// TC = O(m*n), SC = O(m*n)
-// Solution 3
+// Solution 3, TC = O(m*n), SC = O(m*n)
 class Solution
 {
 public:
