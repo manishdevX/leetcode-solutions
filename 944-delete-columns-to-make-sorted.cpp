@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/delete-columns-to-make-sorted
 
-// n = size of strs, m = size of strs[i]
+// n = size of strs, m = length of strs[i]
 
-// Solution 1 TC = O(n*m), SC = O(1)
+// Solution 1, TC = O(n*m), SC = O(1)
 class Solution
 {
 public:

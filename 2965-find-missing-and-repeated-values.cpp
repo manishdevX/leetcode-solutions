@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/find-missing-and-repeated-values
 
-// n = size of grid = size of grid[i]
+// n = size of grid and size of grid[i]
 
-// Solution 1 TC = O(n^4), SC = O(1)
+// Solution 1, TC = O(n^4), SC = O(1)
 class Solution
 {
 public:
@@ -35,8 +35,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(n^2)
-// Solution 2
+// Solution 2, TC = O(n^2), SC = O(n^2)
 class Solution
 {
 public:
@@ -72,8 +71,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(n^2)
-// Solution 3
+// Solution 3, TC = O(n^2), SC = O(n^2)
 class Solution
 {
 public:

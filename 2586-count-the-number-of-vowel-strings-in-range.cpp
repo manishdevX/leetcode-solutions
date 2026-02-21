@@ -2,7 +2,7 @@
 
 // n = size of words, m = avg size of words[i]
 
-// Solution 1 TC = O(n), SC = O(m)
+// Solution 1, TC = O(n), SC = O(m)
 class Solution
 {
 public:

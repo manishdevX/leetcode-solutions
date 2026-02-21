@@ -2,7 +2,7 @@
 
 // n = numRows
 
-// Solution 1 TC = O(n^2), SC = O(n^2)
+// Solution 1, TC = O(n^2), SC = O(n^2)
 class Solution
 {
 public:
@@ -22,8 +22,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(n^2)
-// Solution 2
+// Solution 2, TC = O(n^2), SC = O(n^2)
 class Solution
 {
 public:
