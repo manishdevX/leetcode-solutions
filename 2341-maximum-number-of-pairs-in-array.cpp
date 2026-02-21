@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(nlogn), SC = O(1)
+// Solution 1, TC = O(nlogn), SC = O(logn)
 class Solution
 {
 public:
@@ -26,8 +26,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 2
+// Solution 2, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -49,8 +48,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 3
+// Solution 3, TC = O(n), SC = O(n)
 class Solution
 {
 public:

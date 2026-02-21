@@ -2,7 +2,7 @@
 
 // n1 = size of nums1, n2 = size of nums2, n3 = size of nums3
 
-// Solution 1 TC = O(n1*(n2+n3)+n2*n3), SC = O(min(n1,n2,n3))
+// Solution 1, TC = O(n1^2+n2^2), SC = O(n1+n2)
 class Solution
 {
 public:
@@ -35,8 +35,7 @@ public:
     }
 };
 
-// TC = O(n1+n2+n3), SC = O(n1+n2+n3)
-// Solution 2
+// Solution 2, TC = O(n1^2), SC = O(n1+n2+n3)
 class Solution
 {
 public:
@@ -80,8 +79,7 @@ public:
     }
 };
 
-// TC = O(n1+n2+n3), SC = O(min(n1,n2,n3))
-// Solution 3
+// Solution 3, TC = O(n1+n2+n3), SC = O(1)
 class Solution
 {
 public:

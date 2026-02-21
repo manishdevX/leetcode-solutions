@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/baseball-game
 
-// n = operations
+// n = size of operations, m = avg length of operations[i]
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n*m), SC = O(n)
 class Solution
 {
 public:
@@ -33,8 +33,7 @@ public:
     }
 };
 
-// TC = O(n), SC = O(n)
-// Solution 2
+// Solution 2, TC = O(n*m), SC = O(n)
 class Solution
 {
 public:

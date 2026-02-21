@@ -2,7 +2,7 @@
 
 // n = size of nums, m = avg difference of nums[i][1]-nums[i][0]
 
-// Solution 1 TC = O(n*m), SC = O(n*m)
+// Solution 1, TC = O(n*m), SC = O(n*m)
 class Solution
 {
 public:
@@ -20,8 +20,7 @@ public:
     }
 };
 
-// TC = O(nlogn), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(nlogn), SC = O(logn)
 class Solution
 {
 public:
