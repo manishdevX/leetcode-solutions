@@ -2,7 +2,7 @@
 
 // n = size of arr
 
-// Solution 1 TC = O(nlogn), SC = O(1)
+// Solution 1, TC = O(nlogn), SC = O(logn)
 bool compare(int a, int b)
 {
     int count_a = 0, count_b = 0;
@@ -34,8 +34,7 @@ public:
     }
 };
 
-// TC = O(nlogn), SC = O(1)
-// Solution 2
+// Solution 2, TC = O(nlogn), SC = O(logn)
 bool compare(int a, int b)
 {
     int count_a = __builtin_popcount(a);
@@ -57,8 +56,7 @@ public:
     }
 };
 
-// TC = O(nlogn), SC = O(n)
-// Solution 3
+// Solution 3, TC = O(nlogn), SC = O(n)
 class Solution
 {
 public:

@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/delete-greatest-value-in-each-row
 
-// m = size of grid, n = size of grid[0]
+// m = size of grid, n = size of grid[1]
 
-// Solution 1 TC = O(n*(n*m)), SC = O(1)
+// Solution 1, TC = O(m*n^2), SC = O(1)
 class Solution
 {
 public:
@@ -32,8 +32,7 @@ public:
     }
 };
 
-// TC = O(n^2), SC = O(n)
-// Solution 2
+// Solution 2, TC = O(m*n^2), SC = O(m*n)
 class Solution
 {
 public:
@@ -65,8 +64,7 @@ public:
     }
 };
 
-// TC = O(m*nlogn), SC = O(1)
-// Solution 3
+// Solution 3, TC = O(m*nlogn), SC = O(logn)
 class Solution
 {
 public:

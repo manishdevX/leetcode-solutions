@@ -2,7 +2,7 @@
 
 // n = size of points
 
-// Solution 1 TC = O(nlogn), SC = O(1)
+// Solution 1, TC = O(nlogn), SC = O(logn)
 class Solution
 {
 public:
