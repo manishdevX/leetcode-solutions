@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/prime-in-diagonal
 
-// n = size of nums, m = size of nums[i], k = max element in nums
+// n = size of nums and nums[i], k = max element in nums
 
-// Solution 1 TC = O(nsqrt(n)), SC = O(1)
+// Solution 1, TC = O(n*sqrt(k)), SC = O(1)
 class Solution
 {
 public:
@@ -41,7 +41,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n*m), SC = O(k)
+// Solution 2, TC = O(n^2+kloglogk), SC = O(k)
 class Solution
 {
 public:

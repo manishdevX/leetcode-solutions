@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/find-greatest-common-divisor-of-array
 
-// n = size of nums
+// n = size of nums, m = min element of nums
 
-// Solution 1 TC = O(n), SC = O(1)
+// Solution 1, TC = O(n), SC = O(logm)
 class Solution
 {
 public:
@@ -22,7 +22,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(nlogn), SC = O(1)
+// Solution 2, TC = O(nlogn), SC = O(logm)
 class Solution
 {
 public:

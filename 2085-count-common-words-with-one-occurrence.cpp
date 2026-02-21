@@ -2,7 +2,7 @@
 
 // n1 = size of words1, n2 = size of words2
 
-// Solution 1 TC = O(n1*(n1+n2)), SC = O(1)
+// Solution 1, TC = O(n1*(n1+n2)), SC = O(1)
 class Solution
 {
 public:
@@ -20,7 +20,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n1+n2), SC = O(n1+n2)
+// Solution 2, TC = O(n1+n2), SC = O(n1+n2)
 class Solution
 {
 public:
