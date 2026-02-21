@@ -2,7 +2,7 @@
 
 // n = size of nums, m = size of l and r
 
-// Solution 1 TC = O(m*nlogn), SC = O(n)
+// Solution 1, TC = O(m*nlogn), SC = O(n)
 class Solution
 {
 public:
@@ -31,8 +31,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(m*n), SC = O(n)
-
+// Solution 2, TC = O(m*n), SC = O(n)
 class Solution
 {
 public:

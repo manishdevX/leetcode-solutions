@@ -2,7 +2,7 @@
 
 // n1 = length of word1, n2 = length of word2
 
-// Solution 1 TC = O(max(n1,n2)), SC = O(n1+n2)
+// Solution 1, TC = O(n1+n2), SC = O(n1+n2)
 class Solution
 {
 public:
@@ -34,7 +34,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(max(n1,n2)), SC = O(n1+n2)
+// Solution 2, TC = O(n1+n2), SC = O(n1+n2)
 class Solution
 {
 public:

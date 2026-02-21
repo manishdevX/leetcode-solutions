@@ -2,7 +2,7 @@
 
 // n = size of A
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:

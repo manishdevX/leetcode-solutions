@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/set-matrix-zeroes
 
-// n = size of matrix, m = size of matrix[i]
+// m = size of matrix, n = size of matrix[i]
 
-// Solution 1 TC = O((m+n)*m*n), SC = O(m*n)
+// Solution 1, TC = O((m+n)*m*n), SC = O(m*n)
 class Solution
 {
 public:

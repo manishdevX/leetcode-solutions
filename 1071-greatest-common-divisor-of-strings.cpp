@@ -2,7 +2,7 @@
 
 // n1 = length of str1, n2 = length of str2
 
-// Solution 1 TC = O(min(n1,n2)), SC = O(s1+s2)
+// Solution 1, TC = O(min(n1,n2)), SC = O(s1+s2)
 class Solution
 {
 public:
@@ -43,8 +43,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(log(m*n)), SC = O(1)
-
+// Solution 2, TC = O(m+n), SC = O(m+n)
 class Solution
 {
 public:
