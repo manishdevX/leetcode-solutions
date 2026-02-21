@@ -1,6 +1,6 @@
 // LINK - https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -23,7 +23,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n), SC = O(n)
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
