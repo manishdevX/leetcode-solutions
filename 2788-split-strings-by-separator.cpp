@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/split-strings-by-separator
 
-// n = size of words, m = avg size of a word
+// n = size of words, m = avg length of a words[i]
 
-// Solution 1 TC = O(n*m), SC = O(n*m)
+// Solution 1, TC = O(n*m), SC = O(m)
 class Solution
 {
 public:

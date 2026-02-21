@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
 
-// n = size of mat, m = size of mat[i]
+// m = size of mat, n = size of mat[i]
 
-// Solution 1 TC = TC = O(n*m), SC = O(n*m)
+// Solution 1, TC = O(m*n+(m+k)logm), SC = O(m)
 class Solution
 {
 public:
@@ -36,7 +36,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n*m), SC = O(n*m)
+// Solution 2, TC = O(m*n+mlogm+k), SC = O(m)
 class Solution
 {
 public:
@@ -67,7 +67,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n*m), SC = O(n*m)
+// Solution 3, TC = O(m*n+mlogm+k), SC = O(m)
 class Solution
 {
 public:

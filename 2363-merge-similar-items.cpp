@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/merge-similar-items
 
-// n1 = size of items1, n2 = size of items2
+// m = size of items1, n = size of items2
 
-// Solution 1 TC = O(n1*n2), SC = O(n1+n2)
+// Solution 1, TC = O(m*n+n^2+(m+n)log(m+n)), SC = O(log(m+n))
 class Solution
 {
 public:
@@ -50,8 +50,7 @@ public:
     }
 };
 
-// TC = O(n1+n2), SC = O(n1+n2)
-// Solution 2
+// Solution 2, TC = O((m+n)log(m+n)), SC = O(m+n)
 class Solution
 {
 public:

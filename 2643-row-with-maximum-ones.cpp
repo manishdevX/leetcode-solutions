@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/row-with-maximum-ones
 
-// n = size of mat, m = size of mat[i]
+// m = size of mat, n = size of mat[i]
 
-// Solution 1 TC = O(n*m), SC = O(1)
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:
