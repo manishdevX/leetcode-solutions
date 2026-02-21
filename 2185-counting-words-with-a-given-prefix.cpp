@@ -2,7 +2,7 @@
 
 // n = size of words, m = length of pref
 
-// Solution 1 TC = O(n*m), SC = O(1)
+// Solution 1, TC = O(n*m), SC = O(1)
 class Solution
 {
 public:
@@ -33,7 +33,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n*m), SC = O(m)
+// Solution 2, TC = O(n*m), SC = O(m)
 class Solution
 {
 public:
