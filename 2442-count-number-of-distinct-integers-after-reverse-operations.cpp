@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations
 
-// n = size of nums, m = avg no. of digits in nums[i]
+// n = size of nums
 
-// Solution 1 TC = O(nlogm), SC = O(n)
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:

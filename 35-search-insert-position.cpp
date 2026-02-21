@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(logn), SC = O(1)
+// Solution 1, TC = O(logn), SC = O(1)
 
 class Solution
 {

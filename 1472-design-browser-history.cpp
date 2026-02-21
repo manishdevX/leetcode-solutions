@@ -2,7 +2,7 @@
 
 // n = no of inputs
 
-// Solution 1 TC = O(n), SC = O(n) for vec and visit worst case
+// Solution 1, TC = O(n), SC = O(n) for vec and visit worst case
 class BrowserHistory
 {
 private:
@@ -37,7 +37,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(1), SC = O(n) for vec in worst case
+// Solution 2, TC = O(1), SC = O(n) for vec in worst case
 class BrowserHistory
 {
 private:
@@ -82,7 +82,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n), SC = O(n) for history in worst case
+// Solution 3, TC = O(n), SC = O(n) for history in worst case
 class BrowserHistory
 {
 private:
