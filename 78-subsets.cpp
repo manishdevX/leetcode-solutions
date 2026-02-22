@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(n*2^n), SC = O(n*2^n)
+// Solution 1, TC = O(n*2^n), SC = O(1)
 class Solution
 {
 public:
@@ -28,7 +28,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n*2^n), SC = O(n*2^n)
+// Solution 2, TC = O(n*2^n), SC = O(n)
 class Solution
 {
 private:
@@ -57,7 +57,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n*2^n), SC = O(n*2^n)
+// Solution 3, TC = O(n*2^n), SC = O(1)
 class Solution
 {
 public:
@@ -78,7 +78,7 @@ public:
     }
 };
 
-// Solution 4 TC =  O(n*2^n), SC = O(n*2^n)
+// Solution 4, TC =  O(n*2^n), SC = O(n)
 class Solution
 {
 private:

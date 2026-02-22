@@ -2,7 +2,7 @@
 
 // n = size of chars
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n^2), SC = O(n)
 class Solution
 {
 public:
@@ -35,8 +35,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n), SC = O(1)
-
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 public:
@@ -78,5 +77,44 @@ public:
         }
         chars.resize(ind);
         return ind;
+    }
+};
+
+// Solution 3, TC = O(n), SC = O(n)
+class Solution
+{
+public:
+    int compress(vector<char> &chars)
+    {
+        int n = chars.size(), count = 1;
+        string s = "";
+        s += chars[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (chars[i] == chars[i - 1])
+            {
+                count++;
+            }
+            else
+            {
+                if (count > 1)
+                {
+                    s += to_string(count);
+                }
+                s += chars[i];
+                count = 1;
+            }
+        }
+        if (count > 1)
+        {
+            s += to_string(count);
+        }
+        int sz = s.length();
+        chars.resize(sz);
+        for (int i = 0; i < sz; i++)
+        {
+            chars[i] = s[i];
+        }
+        return sz;
     }
 };

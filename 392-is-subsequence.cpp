@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/is-subsequence
 
-// n1 = length of s, n2 = length of t
+// m = length of s, n = length of t
 
-// Solution 1 TC = O(n1), SC = O(1)
+// Solution 1, TC = O(n), SC = O(1)
 class Solution
 {
 public:
