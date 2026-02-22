@@ -2,7 +2,7 @@
 
 // n = size of arr
 
-// Solution 1 TC = O(n), SC = O(n)
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -30,7 +30,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(logn), SC = O(1)
+// Solution 2, TC = O(logn), SC = O(1)
 class Solution
 {
 public:
@@ -59,7 +59,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(logn), SC = O(1)
+// Solution 3, TC = O(logn), SC = O(1)
 class Solution
 {
 public:

@@ -1,6 +1,6 @@
 // LINK - https://leetcode.com/problems/powx-n
 
-// Solution 1 TC = O(logn), SC = O(logn)
+// Solution 1, TC = O(logn), SC = O(logn)
 class Solution
 {
 private:

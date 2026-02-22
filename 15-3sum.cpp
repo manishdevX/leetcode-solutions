@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(n^3logn), SC = O(n^3) TLE
+// Solution 1, TC = O(n^3logn), SC = O(n^3), TLE
 class Solution
 {
 public:
@@ -35,7 +35,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n^2logn), SC = O(n^2) TLE
+// Solution 2, TC = O(n^2logn), SC = O(n^2), TLE
 class Solution
 {
 public:
@@ -83,7 +83,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n^2logn), SC = O(n^2) TLE
+// Solution 3, TC = O(n^2logn), SC = O(n^2), TLE
 class Solution
 {
 public:
@@ -112,7 +112,7 @@ public:
     }
 };
 
-// Solution 4 TC = O(n^2logn), SC = O(n^2)
+// Solution 4, TC = O(n^2logn), SC = O(n^2)
 class Solution
 {
 public:
@@ -154,7 +154,7 @@ public:
     }
 };
 
-// Solution 5 TC = O(n^2), SC = O(n^2)
+// Solution 5, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:

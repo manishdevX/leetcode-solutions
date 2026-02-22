@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/continuous-subarray-sum
 
-// m = size of nums, k = number of distinct remainders
+// m = size of nums
 
-// Solution 1 TC = O(n), SC = O(k)
+// Solution 1, TC = O(n), SC = O(n)
 class Solution
 {
 public:
