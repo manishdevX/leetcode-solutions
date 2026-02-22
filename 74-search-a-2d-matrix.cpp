@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/search-a-2d-matrix
 
-// m = size of matrix, n = size of matrix[0]
+// m = size of matrix, n = size of matrix[i]
 
-// Solution 1 TC = O(m+n), SC = O(1)
+// Solution 1, TC = O(m+n), SC = O(1)
 class Solution
 {
 public:
@@ -28,7 +28,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(logm+logn), SC = O(1)
+// Solution 2, TC = O(logm+logn), SC = O(1)
 class Solution
 {
 public:
@@ -55,7 +55,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(logm+logn), SC = O(1)
+// Solution 3, TC = O(logm+logn), SC = O(1)
 class Solution
 {
 public:

@@ -2,7 +2,7 @@
 
 // n = size of intervals
 
-// Solution 1 TC = O(nlogn), SC = O(n)
+// Solution 1, TC = O(nlogn), SC = O(logn)
 class Solution
 {
 public:

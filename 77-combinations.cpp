@@ -1,8 +1,6 @@
 // LINK - https://leetcode.com/problems/combinations
 
-// n = size of res
-
-// Solution 1 TC = O(C(n,k)⋅k), SC = O(C(n,k)⋅k) MLE
+// Solution 1, TC = O(C(n,k)*k), SC = O(n) MLE
 class Solution
 {
 private:
@@ -31,7 +29,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(C(n,k)⋅k), SC = O(C(n,k)⋅k)
+// Solution 2, TC = O(C(n,k)*k), SC = O(n+k)
 class Solution
 {
 private:

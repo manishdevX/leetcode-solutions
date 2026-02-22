@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(n!), SC = O(n!)
+// Solution 1, TC = O(n*n!), SC = O(n)
 class Solution
 {
 private:
@@ -49,7 +49,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n!), SC = O(n!)
+// Solution 2, TC = O(n*n!), SC = O(n)
 class Solution
 {
 private:

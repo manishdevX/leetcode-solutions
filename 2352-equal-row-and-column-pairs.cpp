@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/equal-row-and-column-pairs
 
-// n = size of grid
+// n = size of grid and grid[i]
 
-// Solution 1 TC = O(n^3), SC = O(1)
+// Solution 1, TC = O(n^3), SC = O(1)
 class Solution
 {
 public:
@@ -32,7 +32,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n^2), SC = O(n^2)
+// Solution 2, TC = O(n^3), SC = O(n^2)
 class Solution
 {
 public:
@@ -69,7 +69,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n^2logn), SC = O(n^2)
+// Solution 3, TC = O(n^2*logn), SC = O(n^2)
 class Solution
 {
 public:

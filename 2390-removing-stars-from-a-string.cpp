@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/removing-stars-from-a-string
 
-// n = size of s
+// n = length of s
 
-// Solution 1 TC = O(n), SC = O(n) MLE
+// Solution 1, TC = O(n^2), SC = O(n), MLE
 class Solution
 {
 public:
@@ -23,7 +23,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n), SC = O(n)
+// Solution 2, TC = O(n), SC = O(n)
 class Solution
 {
 public:
@@ -38,7 +38,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n), SC = O(n)
+// Solution 3, TC = O(n), SC = O(n)
 class Solution
 {
 public:
