@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/sort-the-matrix-diagonally
 
-// m = size of mat, n = size of mat[0]
+// m = size of mat, n = size of mat[i]
 
-// Solution 1 TC = O(mnlogmin(m,n)), SC = O(min(m,n))
+// Solution 1, TC = O(mnlogmin(m,n)), SC = O(min(m,n))
 class Solution
 {
 private:
@@ -39,7 +39,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(mnlogmin(m,n)), SC = O(m*n)
+// Solution 2, TC = O(mnlogmin(m,n)), SC = O(m*n)
 class Solution
 {
 public:

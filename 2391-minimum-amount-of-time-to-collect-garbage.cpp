@@ -2,7 +2,7 @@
 
 // n = size of garbage, m = avg size of garbage[i]
 
-// Solution 1 TC = O(m*n), SC = O(1)
+// Solution 1, TC = O(m*n), SC = O(1)
 class Solution
 {
 public:
@@ -40,7 +40,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(m*n), SC = O(n)
+// Solution 2, TC = O(m*n), SC = O(n)
 class Solution
 {
 public:
