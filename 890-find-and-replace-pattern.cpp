@@ -1,8 +1,8 @@
 // LINK - https://leetcode.com/problems/find-and-replace-pattern
 
-// m = size of pattern, n = size of words
+// m = length of pattern, n = size of words
 
-// Solution 1 TC = O(m*n), SC = O(n+m)
+// Solution 1, TC = O(m*n), SC = O(m)
 class Solution
 {
 public:

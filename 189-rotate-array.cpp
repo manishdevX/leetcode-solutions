@@ -2,7 +2,7 @@
 
 // n = size of nums, lim = k % n
 
-// Solution 1 TC = O(n*lim), SC = O(1) TLE
+// Solution 1, TC = O(n*lim), SC = O(1), TLE
 class Solution
 {
 public:
@@ -21,7 +21,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n), SC = O(1)
+// Solution 2, TC = O(n), SC = O(1)
 class Solution
 {
 private:
@@ -43,7 +43,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n), SC = O(n)
+// Solution 3, TC = O(n), SC = O(n)
 class Solution
 {
 public:

@@ -2,7 +2,7 @@
 
 // n = size of nums
 
-// Solution 1 TC = O(n^2), SC = O(n)
+// Solution 1, TC = O(n^2), SC = O(n)
 class Solution
 {
 public:
@@ -22,7 +22,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(n^2), SC = O(1)
+// Solution 2, TC = O(n^2), SC = O(1)
 class Solution
 {
 public:
@@ -41,7 +41,7 @@ public:
     }
 };
 
-// Solution 3 TC = O(n^2), SC = O(n)
+// Solution 3, TC = O(n^2), SC = O(n)
 class Solution
 {
 public:

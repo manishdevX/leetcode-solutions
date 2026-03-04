@@ -2,7 +2,7 @@
 
 // n = size of arr
 
-// Solution 1 TC = O(n^4), SC = O(1) TLE
+// Solution 1, TC = O(n^4), SC = O(1), TLE
 class Solution
 {
 public:

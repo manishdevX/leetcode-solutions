@@ -2,7 +2,7 @@
 
 // n = size of deck
 
-// Solution 1 TC = O(nlogn), SC = O(n)
+// Solution 1, TC = O(nlogn), SC = O(n)
 class Solution
 {
 public:
@@ -27,7 +27,7 @@ public:
     }
 };
 
-// Solution 2 TC = O(nlogn), SC = O(n)
+// Solution 2, TC = O(nlogn), SC = O(1)
 class Solution
 {
 public:
